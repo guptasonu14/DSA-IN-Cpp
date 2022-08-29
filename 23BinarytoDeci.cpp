@@ -15,5 +15,5 @@ int main(){
         i++;
     }
     cout<<ans <<endl;
-     return 0;
+    
 }
