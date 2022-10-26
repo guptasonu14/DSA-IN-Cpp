@@ -26,7 +26,7 @@ int main() {
     int ans = getSum(arr, n);
 
     cout << "answer is "<< ans << endl;
-
+/*
 //case 1
     while(true) {
         int i = 5;
@@ -37,7 +37,7 @@ int main() {
         int* ptr = new int;
     }
 
-
+*/
 
 
     return 0;
