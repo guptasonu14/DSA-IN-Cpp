@@ -6,7 +6,7 @@ class construct{
     public:
     int a;
     int b;
-
+// Default Constructor
     construct(){
         a=10;
         b =20;
