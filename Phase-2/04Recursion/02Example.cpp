@@ -11,8 +11,10 @@ int power(int n){
 
       int smallerProblem = power(n-1);
       int biggerProblem = 2* smallerProblem;
-
       return biggerProblem;
+
+      //or
+    /*  return 2* power(n-1); */ 
 }
 
 int main(){
