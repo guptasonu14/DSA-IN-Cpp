@@ -18,6 +18,12 @@ int power(int a, int b){
     else{
         //if b is odd
         return a*ans*ans;
+
+
+
+
+
+        
     }
 }
 
