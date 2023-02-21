@@ -3,7 +3,7 @@
 using namespace std;
 
 int main(){
-    int arr[10]={23,122,41,67};
+ //   int arr[10]={23,122,41,67};
 
     /*
     cout << "Address of array is: " << arr << endl;
